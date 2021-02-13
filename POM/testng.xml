@@ -4,11 +4,8 @@
   <test  name="LoginTest">
     <classes>
       <class name="com.PomDemo.LoginTest"/>
+       <class name="com.PomDemo.DashBoard"/>
+       <class name="com.PomDemo.LoginPage"/>
     </classes>
-  </test> <!-- Test -->
-  <test  name="DashBoard">
-    <classes>
-      <class name="com.PomDemo.DashBoard"/>
-    </classes>
-  </test>
+  
 </suite> <!-- Suite -->
