@@ -1,0 +1,13 @@
+2021-02-07 11:17:10,687  INFO [main] LoginTest:22 - intialize browser
+2021-02-07 11:17:25,010  INFO [main] LoginTest:25 - chrome browser opened
+2021-02-07 11:17:29,036  INFO [main] LoginTest:27 - JBK offline app launched
+2021-02-07 11:17:29,270  INFO [main] LoginTest:30 - closing the browser
+2021-02-07 11:17:29,297  INFO [main] LoginTest:49 - dashboard displayed
+2021-02-07 11:17:38,954  INFO [main] LoginTest:34 - closing the browser
+2021-02-07 11:17:39,100  INFO [main] LoginTest:22 - intialize browser
+2021-02-07 11:17:42,781  INFO [main] LoginTest:25 - chrome browser opened
+2021-02-07 11:17:50,578  INFO [main] LoginTest:27 - JBK offline app launched
+2021-02-07 11:17:50,580  INFO [main] LoginTest:30 - closing the browser
+2021-02-07 11:17:50,966  INFO [main] LoginTest:40 - logging into the application
+2021-02-07 11:17:55,718  INFO [main] LoginTest:44 - entering into the application
+2021-02-07 11:17:55,723  INFO [main] LoginTest:34 - closing the browser
